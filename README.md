@@ -39,7 +39,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Fahadhtechser/Fahadhtechser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
 ### The Hard Method
 ```js
@@ -80,7 +80,7 @@ $ node Fahadhtechser.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Jc77krejULn0WWxX3l84GL)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/qr/6UASBVYDHNRAB1)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fahadhtech-ser&repo=Fahadhtechser&theme=nightowl)](https://github.com/Fahadhtech)
