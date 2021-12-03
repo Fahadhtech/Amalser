@@ -102,7 +102,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Fahadhtechser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/91860671466?text=Can%20you%20help%20bro)**
+**[![Fahadhtechser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/918606871466?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
