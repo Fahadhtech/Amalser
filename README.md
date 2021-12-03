@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/Fahadhtech">Fahadhtech</a> to mak
 
 ## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](//https://youtube.com/channel/UCRvfblXl7bzbcaEf32fXqRA)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UCRvfblXl7bzbcaEf32fXqRA)
 
 
 ## Instagram  Follow ❤️
